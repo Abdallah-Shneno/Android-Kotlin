@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Goo Shopping</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Create_account">Create account</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="mobile_phone">Mobile phone</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="have_acc_already">Already have an acocunt?</string>
+    <string name="log_In">Log In</string>
+    <string name="logo">logo</string>
+    <string name="welcome">Welcome</string>
+    <string name="log_to_continue">Log in to continue</string>
+    <string name="register_Now">Register</string>
+    <string name="to_complete_regeteration">"Please enter all fields to complete the registration process "</string>
+    <string name="ok">ok</string>
+    <string name="fill_all_inputs">Please Fill all fields</string>
+    <string name="register">Register</string>
+    <string name="tryAgain">Your user name or password wrong</string>
+    <string name="tryMore">Something wrong</string>
+    <string name="next">Next</string>
+    <string name="hello_1">"Welcome to all the services that please you. Let's go for a completely free online experience "</string>
+    <string name="hello_2">"Shop safely and get all products in one place, fast access to all services, and delivery to your address quickly "</string>
+    <string name="hello_3">"Safe delivery and receipt of the process via the Internet, and a guarantee of your money recovery in case you encounter any problem "</string>
+    <string name="have_fun">Have Fun</string>
+    <string name="security_code">Security code</string>
+    <string name="password_again">Password Again</string>
+    <string name="done">Go</string>
+    <string name="cancel">Cancel</string>
+    <string name="wrieQuit">Correctly complete the operation successfully</string>
+    <string name="EditAccount">Edit</string>
+    <string name="edit">Click edit to Edit Your Info</string>
+    <string name="problem">Please if you have any problem </string>
+    <string name="contact">Contact with us</string>
+    <string name="passwordAgain">Password Again</string>
+    <string name="oldPass">Old Password</string>
+    <string name="newPass">New Password</string>
+
+</resources>

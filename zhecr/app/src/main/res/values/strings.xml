@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">zhecr</string>
+    <string-array name="array1">
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+    </string-array>
+</resources>
